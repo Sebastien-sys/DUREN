@@ -1,5 +1,3 @@
-# DUREN
-Mon Portfolio de formation du Diplôme Universitaire de Recherche en Éducation numérique
 
 J'ai intégré la promotion 2020 du **D**iplôme **U**niversitaire de **R**echerche en **É**ducaion **N**umérique, de l'université des sciences et techniques de Lille :  
 
@@ -16,3 +14,4 @@ Je livre ainsi les versions régulièrement remises à jour de :
 * les répertoires contenant les travaux effectués dans les diiférents ateliers de la formation, et dont il est fait mention dans mon portfolio.
     
     
+ 
