@@ -2,7 +2,7 @@
 Mon Portfolio de formation du Diplôme Universitaire de Recherche en Éducation numérique
 
 J'ai intégré la promotion 2020 du *D*iplôme *U*niversitaire de *R*echerche en *É*ducaion *N*umérique, de l'université des sciences et techniques de Lille :  
-<p style="testalign:center">  http://duren.univ-lille1.fr/ <p/>  
+<p style="tex-talign:center">  http://duren.univ-lille1.fr/ <p/>  
 
 Ce diplôme est une propédeutique menant à la préparation d'une thèse en science de l'éducation ayant pour théme les technologies de l'éducation.
 
