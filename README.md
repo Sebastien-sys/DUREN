@@ -12,7 +12,7 @@ Je livre ainsi les versions régulièrement remises à jour de :
 * ma bibliographie;
 * mon portfolio de formation (une version pdf et une version directement lisible sur Github);
 * l'ébauche du poster qui présentera en fin de formation, mon sujet de recherche;
-* les répertoires contenant les travaux effectués dans les diiférents ateliers de la formation, et dont il est fait mention dans mon portfolio.
+* les répertoires contenant les travaux effectués dans les diiférents ateliers de la formation, et dont il est fait mention dans mon portfolio. 
     
     
  
