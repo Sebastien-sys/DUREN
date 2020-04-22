@@ -25,8 +25,8 @@ title: "Portfolio DUREN"
 ## Journal   
 
 
-Il  s'ageissait, lors de notre semaine d'intégration, de réviser nos conceptions de la recherche à l'occasion d'échanges avec le professeur Caron.
-Durant cette semaisne des échanges à distance ont eu lieu, à l'occasion desquels les étudiants ont pu se familariser avec la plaeforme de formation à distance et réviser leurs prénotions sur la recherhce.Du 23/03/2020 au 29/03/2020**  
+Il  s'agissait, lors de notre semaine d'intégration, de réviser nos conceptions de la recherche à l'occasion d'échanges avec le professeur Caron.
+Durant la semaine du 23/03/2020 au 29/03/2020,  des échanges à distance ont eu lieu, à l'occasion desquels les étudiants ont pu se familariser avec la plateforme de formation à distance et réviser leurs prénotions sur la recherhce.
 
 1.Lundi 23 mars 2020 :Entrée dans le vif du sujet avec les premières questions sur la préparation d'une thèse, et les premières réponses :    
 
@@ -74,7 +74,9 @@ Puisque ka recherche n'est pas un chemin tout tracé, il est indispensable de d�
 
 Partir du début : l'épistémologie. 
 
+
 ***
+
 
 # Atelier 2 : problématisation 
 
@@ -126,6 +128,10 @@ Je dois me replonger dans la lecture du manuel de recherche et remettre la main 
 - faire le point sur l'élaboration d'une problématique
 - Trouver le courriel de Jean Gadrey !
 
+
+***
+
+
 # Atelier 3 : approche et méthodes
 
 ## Journal 
@@ -138,9 +144,79 @@ Je dois me replonger dans la lecture du manuel de recherche et remettre la main 
 
 - analyse du questionnaire à l'aide de la grille de codage :
 
+3.Samedi 18 avril 2020 :
+
+-lecture du chapitre "la problématique" du livre : "La recherche en éducation, étapes et approches" :
+
+* nécessité de connaître les recherches antérieures;
+*nos interprétations sont conditionnées par notre histoire
+* "écrire ce n'est pas transférer ses idées sur le papier: c'est transformer sa pensée".
+* cf Vygotsky : ensée intériorisée et pensée extériorisée
+* la problématique cherche à établir le pertinence sociale et scientifique d'une recherche
+* texte arguementatif, logique de l'entonnoir
+* arguments pertinents, faits contextualisés
+   
+
+4.Dimanche 19 avril 2020 :
+
+
+-lecture du chapitre "Méthodologie" du livre : "La recherche en éducation, étapes et approches" :  
+
+
+ * 4 pôles en méthodologie :
+     + épistémomogique (paradigme);
+     + théorique (le contexte théorique de la recherche);
+     + morphologique (la mise en forme de l'objet scientifique);
+     + techniques (les techniques de travail).
+ * position épistémologique du chercheur :
+     + par rapport à la réalité : externe; construite; reflet de rapports de force;
+     + par rapport au savoir : généralisable; transférabble; émancipateur;
+     + par rapport à sa recherche : subjecti; objecif; partie prenante;
+    
+-lecture du chapitre "Le cadre théorique" du livre : "La recherche en éducation, étapes et approches  
+
+
+ * l'élaboration du cadre théorique suit la problématique
+ * cadre :
+     + théories et modèles qui inspirent la recherche
+     + les recherches semblables
+     + les concepts en jeu dans ma recherche
+ * un cadre théorique doit être argumenté
+ * validité d'un énnoncé théorique :
+     + pertinents pour le domainde de l'éducation
+     + valeur heuristique
+     + cohérence et crédibilité
+     + une lecture  n'est jamais neutre : expliciter les présupposés théoriques et la posture adoptée
+
+-lecture de l'article :La problématique de l’industrialisation de la formation (Elisabeth Fichez, HAL)
+
+* et si la question était : **la  capacité de l'évaluation  à se soumettre à un processus d’industrialisation allant d’un degré nul ou faible à un degré élevé** ?
+
+-Mardi 21 avril 2020 :
+
+  * lecture du "Manuel de recherche en technologie éducative", début de réponses aux questions de l'activité 2.1. de l'atelier 3.
+  * Réalisation d'une carte avec les concepts en lien avec la nouvelle question de recherche, ajout de la carte au poster:  
+    
+    ![Carte des concepts](C:\Users\User\Documents\DUREN\Methode\CarteConceptsDUREN.PNG)
+  
+  * lecture de "Analyse des données quantitatives" d'Huberman et Miles
+  
+    
+````
+A faire : (18/04/2020)
+
+  - identification de l'intérêt de départ 
+  - recension des écrits -> question générale
+  - cadre conceptuel 
+
+````
+
+
 ## Travaux effectués
 
 - questionnaire (document:DUREN-Atelier3-Tache1-Bocquet.docx )
+- recension des concepts
+
 
 ## Points bloquants
 
