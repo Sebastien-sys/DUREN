@@ -228,7 +228,6 @@ Lire Karsenti,T; Savoie-Zajc,L;(2018);La recherche en éducation.Étapes et appr
     -chapitre 4 : le cadre théorique
     -chapitre 5 : la méthodologie
 
-# Fiche de lecture
 
 
 
