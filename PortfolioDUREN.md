@@ -1,22 +1,4 @@
----
-output:
-  html_document:
-    keep_md: TRUE
-    theme: lumen
-    toc: true
-    toc_float:
-      collapsed: false
-      smooth_scroll: false
-  pdf_document:
-    fig_width: 4
-    highlight: tango
-    template: template.tex
-    keep_tex: true
-    fig_caption: true
-  output: github_document
-documentclass: book
-title: "Portfolio DUREN"
----
+
 
 # Atelier 1 : intégration   
 
@@ -197,7 +179,7 @@ Je dois me replonger dans la lecture du manuel de recherche et remettre la main 
   * lecture du "Manuel de recherche en technologie éducative", début de réponses aux questions de l'activité 2.1. de l'atelier 3.
   * Réalisation d'une carte avec les concepts en lien avec la nouvelle question de recherche, ajout de la carte au poster:  
     
-    ![Carte des concepts](C:\Users\User\Documents\DUREN\Methode\CarteConceptsDUREN.PNG)
+    ![Carte des concepts](https://github.com/Sebastien-sys/DUREN/blob/master/Methode/CarteConceptsDUREN.PNG)
   
   * lecture de "Analyse des données quantitatives" d'Huberman et Miles
   
